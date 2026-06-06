@@ -10,10 +10,8 @@
 <br/><br/>
 
 <!-- ══ TYPING ANIMATION ══ -->
-# Test
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=26&width=800&lines=Hello+World" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Kraniksa+Williams;Data+Analyst;AI+and+Data+Science+Graduate;Machine+Learning+Enthusiast;Power+BI+Developer;Turning+Data+Into+Decisions" />
 </p>
 <br/><br/>
 
