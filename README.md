@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══ HEADER BANNER ══ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=KRANIKSA%20WILLIAMS&fontSize=44&fontColor=c084fc&fontAlignY=38&desc=Data%20Analyst%20%E2%80%A2%20AI%20%26%20Data%20Science%20Graduate&descSize=17&descAlignY=60&descColor=67e8f9&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=KRANIKSA%20WILLIAMS&fontSize=44&animation=fadeIn" width="100%"/>
 
 <!-- ══ PROFILE IMAGE ══ -->
 <br/>
