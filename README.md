@@ -10,10 +10,9 @@
 <br/><br/>
 
 <!-- ══ TYPING ANIMATION ══ -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=14&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B+I%27m+Kraniksa+Williams;Data+Analyst+%7C+AI+%26+Data+Science+Graduate;Machine+Learning+%7C+Power+BI+%7C+Python+%7C+SQL;Transforming+Raw+Data+into+Smart+Decisions+%F0%9F%9A%80" alt="Typing SVG"/>
-</a>
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=👋+Hi+There!+I'm+Kraniksa+Williams;📊+Data+Analyst;🤖+AI+%26+Data+Science+Graduate;⚡+Machine+Learning+Enthusiast;📈+Power+BI+Developer;🚀+Turning+Data+Into+Decisions" />
+</p>
 <br/><br/>
 
 <!-- ══ BADGES ══ -->
