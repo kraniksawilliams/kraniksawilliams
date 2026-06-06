@@ -191,10 +191,7 @@ print(me)
 
 ## 📊 GitHub Analytics
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kraniksawilliams&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=a855f7&text_color=94a3b8&border_radius=12" width="49%" alt="GitHub Stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kraniksawilliams&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ec4899&currStreakLabel=c084fc&sideLabels=94a3b8&dates=64748b&border_radius=12" width="49%" alt="GitHub Streak"/>
-
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kraniksawilliams&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=94a3b8&border_radius=12&langs_count=8" width="40%" alt="Top Languages"/>
