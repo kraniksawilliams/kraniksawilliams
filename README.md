@@ -224,8 +224,7 @@ print(me)
 ```
 🔭  Currently working on  →  Financial Fraud Detection & Deep Learning models
 🌱  Currently learning    →  Advanced Deep Learning · LLMs · Cloud Analytics
-💬  Ask me about          →  Python · SQL · Power BI · EDA · Machine Learning
-📍  Location              →  Tamil Nadu, India
+💬  Ask me about          →  Python · SQL · Power BI · EDA · Machine Learning 📍  Location              →  Tamil Nadu, India
 ⚡  Fun fact              →  I find patterns in chaos — that's just EDA 😄
 ```
 
