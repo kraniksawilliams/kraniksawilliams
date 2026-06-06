@@ -5,7 +5,7 @@
 
 <!-- ══ PROFILE IMAGE ══ -->
 <br/>
-<img src="https://raw.githubusercontent.com/kraniksawilliams/kraniksawilliams/main/profile.png" width="180px" style="border-radius:50%;border:3px solid #a855f7;" alt="Kraniksa Williams"/>
+<img src="http://github.com/kraniksawilliams/kraniksawiliams/blob/main/profile.png" width="180px" style="border-radius:50%;border:3px solid #a855f7;" alt="Kraniksa Williams"/>
 
 <br/><br/>
 
