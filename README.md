@@ -11,7 +11,7 @@
 
 <!-- ══ TYPING ANIMATION ══ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Kraniksa+Williams;Data+Analyst;AI+and+Data+Science+Graduate;Machine+Learning+Enthusiast;Power+BI+Developer;Turning+Data+Into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=2500&pause=1200&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+There!+I'm+Kraniksa+Williams;Data+Analysis;AI+and+Data+Science+Graduate;Machine+Learning+Enthusiast;Power+BI+;Turning+Data+Into+Decisions;Turn+Rawdata+into+Interactive+Charts,+Graphs,+and+Live+reports" />
 </p>
 <br/><br/>
 
