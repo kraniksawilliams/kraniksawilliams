@@ -77,25 +77,34 @@ print(me)
 
 ---
 
-## 💼 Professional Experience
+## ## 💼 Professional Experience
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🏢  DATA SCIENCE INTERN  ·  Ether Services Pvt. Ltd.               │
-│  📅  Jan 2026 – Jun 2026  ·  Tamil Nadu, India                      │
-├─────────────────────────────────────────────────────────────────────┤
-│  ▸ Built ETL pipelines using Python (Pandas, NumPy) & SQL           │
-│    to clean and validate large business datasets                    │
-│  ▸ Developed 5+ Power BI & Excel dashboards to monitor KPIs,        │
-│    enabling real-time stakeholder visibility                        │
-│  ▸ Conducted EDA to uncover trends and produce strategic            │
-│    recommendations adopted by business leadership                  │
-│  ▸ Collaborated cross-functionally to align BI outputs with         │
-│    organizational goals                                             │
-└─────────────────────────────────────────────────────────────────────┘
-```
+### 🏢 Data Science Intern · Ether Services Pvt. Ltd.
+
+**Jan 2026 – Jun 2026 · Tamil Nadu, India**
+
+|                              |                                                                                                      |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------- |
+| 🔹 **ETL & Data Processing** | Built ETL pipelines using Python (Pandas, NumPy) & SQL to clean and validate large business datasets |
+| 🔹 **BI & Dashboards**       | Developed 5+ Power BI & Excel dashboards to monitor KPIs and provide stakeholder visibility          |
+| 🔹 **Data Analysis**         | Conducted EDA to uncover trends and produce strategic recommendations                                |
+| 🔹 **Collaboration**         | Collaborated cross-functionally to align BI outputs with organizational goals                        |
+
+<br/>
+
+### 🚀 Data Science / Machine Learning Intern · L&T Technology Services (LTTS)
+
+**Aug 2026 – Present · India**
+
+|                         |                                                                                                              |
+| :---------------------- | :----------------------------------------------------------------------------------------------------------- |
+| 🤖 **Machine Learning** | Implementing and evaluating machine learning algorithms across supervised and unsupervised learning problems |
+| 🔍 **Data Analysis**    | Performing data preprocessing, EDA, feature engineering, model training, and evaluation                      |
+| 📊 **Model Evaluation** | Comparing ML algorithms using appropriate performance metrics to identify suitable models                    |
+| 🧠 **Deep Learning**    | Exploring deep learning approaches and their applications to real-world datasets                             |
+| ⚙️ **AutoML**           | Exploring AutoML approaches for automated model development and model comparison                             |
 
 </div>
 
